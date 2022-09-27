@@ -6,7 +6,7 @@ public class Ejercicio10T3 {
 		System.out.println("Introduzca Mb: ");
 		double Mb = s.nextDouble();
 		
-		System.out.println((Mb * 1000) + " Kb");
+		System.out.println((Mb * 1024) + " Kb");
 	}
 }
 

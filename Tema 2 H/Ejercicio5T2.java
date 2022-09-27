@@ -4,7 +4,7 @@ public class Ejercicio5T2 {
 		double pesetas = 1;
 		double euros = 166.386;
 		
-		System.out.println((pesetas / euros) + " euros");
+		System.out.println((pesetas/euros) + " euros");
 	}
 }
 
